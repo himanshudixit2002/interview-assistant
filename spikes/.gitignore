@@ -1,0 +1,4 @@
+.build/
+*.aiff
+*.wav
+*.png

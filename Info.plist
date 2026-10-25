@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>            <string>Interview Assistant</string>
+    <key>CFBundleDisplayName</key>     <string>Interview Assistant</string>
+    <key>CFBundleExecutable</key>      <string>InterviewAssistant</string>
+    <key>CFBundleIdentifier</key>      <string>com.himanshudixit.interviewassistant</string>
+    <key>CFBundlePackageType</key>     <string>APPL</string>
+    <key>CFBundleShortVersionString</key> <string>0.1.0</string>
+    <key>CFBundleVersion</key>         <string>1</string>
+    <key>LSMinimumSystemVersion</key>  <string>26.0</string>
+    <key>LSApplicationCategoryType</key> <string>public.app-category.productivity</string>
+    <key>NSHighResolutionCapable</key> <true/>
+    <key>NSAudioCaptureUsageDescription</key> <string>Captures audio from the meeting application you select so the interviewer's questions can be transcribed on this Mac.</string>
+    <key>NSMicrophoneUsageDescription</key> <string>Optional: captures your own voice during practice sessions. Never used without an explicit choice.</string>
+    <key>NSSpeechRecognitionUsageDescription</key> <string>Transcribes the selected audio locally.</string>
+    <key>NSHumanReadableCopyright</key> <string>Himanshu Dixit</string>
+</dict>
+</plist>

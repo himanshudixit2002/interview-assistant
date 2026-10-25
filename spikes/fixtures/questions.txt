@@ -1,0 +1,13 @@
+# id|voice|reference text spoken by the voice. Voices: Samantha/en_US, Daniel/en_GB, Aman/Rishi/Tara en_IN.
+q01|Samantha|Tell me about a time you had to debug a production incident under pressure.
+q02|Aman|How would you design a URL shortener that handles one billion requests per day?
+q03|Rishi|What is the time complexity of your approach, and can you do better than n log n?
+q04|Tara|Explain the difference between optimistic and pessimistic locking in Postgres.
+q05|Daniel|Why did you choose Kafka over RabbitMQ for the event pipeline?
+q06|Samantha|Walk me through how you would make this endpoint idempotent.
+q07|Aman|The input is unsorted and memory is limited to one hundred megabytes. How does that change your approach?
+q08|Rishi|Can you detect duplicates in a stream without storing every element?
+q09|Tara|What happens when a Kubernetes pod exceeds its memory limit?
+q10|Daniel|Describe a situation where you disagreed with your team lead, and what you did about it.
+q11|Aman|At Cleartrip, how did you handle schema migrations without downtime?
+q12|Samantha|Actually, make that one billion rows, not one million. Does your approach still work?

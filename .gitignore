@@ -1,0 +1,20 @@
+.build/
+*.app/
+*.aiff
+*.wav
+*.png
+spikes/.build/
+
+# Keys and private settings stay on this Mac.
+.env
+.env.*
+*.pem
+*.p12
+*.p8
+*.jks
+*.keystore
+android/key.properties
+
+# Xcode's per-user files.
+.swiftpm/
+xcuserdata/
